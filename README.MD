@@ -46,17 +46,23 @@
 
 ## 🎯 Motivation
 
-> Large models offer broad generalization but are expensive to adapt and deploy in private domains, while small models are efficient and domain-specialized yet limited in general capability. This repository focuses on how LM-SM collaboration bridges that gap under cross-boundary constraints involving privacy, model ownership, and hardware limitations.
+> Domain tasks often involve private data, proprietary models, and limited local resources, which make centralized adaptation of large models impractical. LM-SM collaboration addresses this setting by combining the broad generalization of large models with the efficiency and locality of small models. This repository organizes representative methods by transfer direction and inference-time collaboration, with attention to privacy, model security, and resource constraints.
+
+## Taxonomy
+
+<div align="center">
+<img src="assets/taxonomy_figure.png" alt="Taxonomy of large-small model collaboration for domain tasks" width="95%">
+</div>
 
 ---
 
 ## 📚 Contents
 
-#### Table of Contents
-
-- [Knowledge Transfer from LMs to SMs](#knowledge-transfer-from-lms-to-sms) | [Subpage](subpages/LM2SM.md)
-- [Knowledge Transfer from SMs to LMs](#knowledge-transfer-from-sms-to-lms) | [Subpage](subpages/SM2LM.md)
-- [Cross-silo Collaborative Inference](#cross-silo-collaborative-inference) | [Subpage](subpages/Collaborative.md)
+<p>
+<a href="#knowledge-transfer-from-lms-to-sms"><img src="https://img.shields.io/badge/LM2SM-Knowledge%20Transfer%20from%20LMs%20to%20SMs-A8DDB5?labelColor=2E7D5B&style=flat-square" alt="Knowledge Transfer from LMs to SMs"></a> <a href="subpages/LM2SM.md">Subpage</a><br>
+<a href="#knowledge-transfer-from-sms-to-lms"><img src="https://img.shields.io/badge/SM2LM-Knowledge%20Transfer%20from%20SMs%20to%20LMs-FBE6C2?labelColor=B45309&style=flat-square" alt="Knowledge Transfer from SMs to LMs"></a> <a href="subpages/SM2LM.md">Subpage</a><br>
+<a href="#cross-silo-collaborative-inference"><img src="https://img.shields.io/badge/Collab-Cross--silo%20Collaborative%20Inference-A9C8FF?labelColor=1D4ED8&style=flat-square" alt="Cross-silo Collaborative Inference"></a> <a href="subpages/Collaborative.md">Subpage</a>
+</p>
 
 <details>
 <summary><strong>Badge legend</strong></summary>
@@ -70,7 +76,8 @@
 
 </details>
 
-### Knowledge Transfer from LMs to SMs
+<a id="knowledge-transfer-from-lms-to-sms"></a>
+### ![LM2SM](https://img.shields.io/badge/LM2SM-Major%20Category-A8DDB5?labelColor=2E7D5B&style=flat-square) Knowledge Transfer from LMs to SMs
 
 <details open>
 <summary><strong>Distillation-based Transfer</strong></summary>
@@ -145,7 +152,8 @@
 
 </details>
 
-### Knowledge Transfer from SMs to LMs
+<a id="knowledge-transfer-from-sms-to-lms"></a>
+### ![SM2LM](https://img.shields.io/badge/SM2LM-Major%20Category-FBE6C2?labelColor=B45309&style=flat-square) Knowledge Transfer from SMs to LMs
 
 <details open>
 <summary><strong>Distillation-based Transfer</strong></summary>
@@ -233,7 +241,8 @@
 
 </details>
 
-### Cross-silo Collaborative Inference
+<a id="cross-silo-collaborative-inference"></a>
+### ![Collab](https://img.shields.io/badge/Collab-Major%20Category-A9C8FF?labelColor=1D4ED8&style=flat-square) Cross-silo Collaborative Inference
 
 <details open>
 <summary><strong>Split Execution</strong></summary>
