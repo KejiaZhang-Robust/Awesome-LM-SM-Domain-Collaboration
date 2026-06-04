@@ -58,11 +58,11 @@
 
 ## 📚 Contents
 
-<p>
-<a href="#knowledge-transfer-from-lms-to-sms"><img src="https://img.shields.io/badge/LM2SM-Knowledge%20Transfer%20from%20LMs%20to%20SMs-A8DDB5?labelColor=2E7D5B&style=flat-square" alt="Knowledge Transfer from LMs to SMs"></a> <a href="subpages/LM2SM.md">Subpage</a><br>
-<a href="#knowledge-transfer-from-sms-to-lms"><img src="https://img.shields.io/badge/SM2LM-Knowledge%20Transfer%20from%20SMs%20to%20LMs-FBE6C2?labelColor=B45309&style=flat-square" alt="Knowledge Transfer from SMs to LMs"></a> <a href="subpages/SM2LM.md">Subpage</a><br>
-<a href="#cross-silo-collaborative-inference"><img src="https://img.shields.io/badge/Collab-Cross--silo%20Collaborative%20Inference-A9C8FF?labelColor=1D4ED8&style=flat-square" alt="Cross-silo Collaborative Inference"></a> <a href="subpages/Collaborative.md">Subpage</a>
-</p>
+| Category | Subpage |
+| :-- | :--: |
+| <a href="#knowledge-transfer-from-lms-to-sms"><img src="https://img.shields.io/badge/LM2SM-Knowledge%20Transfer%20from%20LMs%20to%20SMs-A8DDB5?labelColor=2E7D5B&style=flat-square" alt="Knowledge Transfer from LMs to SMs"></a> | [Subpage](subpages/LM2SM.md) |
+| <a href="#knowledge-transfer-from-sms-to-lms"><img src="https://img.shields.io/badge/SM2LM-Knowledge%20Transfer%20from%20SMs%20to%20LMs-FBE6C2?labelColor=B45309&style=flat-square" alt="Knowledge Transfer from SMs to LMs"></a> | [Subpage](subpages/SM2LM.md) |
+| <a href="#cross-silo-collaborative-inference"><img src="https://img.shields.io/badge/Collab-Cross--silo%20Collaborative%20Inference-A9C8FF?labelColor=1D4ED8&style=flat-square" alt="Cross-silo Collaborative Inference"></a> | [Subpage](subpages/Collaborative.md) |
 
 <details>
 <summary><strong>Badge legend</strong></summary>
