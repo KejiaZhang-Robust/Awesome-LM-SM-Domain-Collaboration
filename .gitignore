@@ -1,0 +1,14 @@
+# OS / editor junk
+.DS_Store
+**/.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Notion CSV source exports — regenerate tables via gen_md_table_publish.py
+*.csv
