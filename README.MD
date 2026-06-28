@@ -10,6 +10,8 @@
 <p>
   <a href="https://arxiv.org/abs/2504.17421"><strong>[Paper]</strong></a>
   &nbsp;&nbsp;
+  <a href="https://arxiv.org/pdf/2504.17421"><strong>[PDF]</strong></a>
+  &nbsp;&nbsp;
   <a href="#-contents"><strong>[Contents]</strong></a>
   &nbsp;&nbsp;
 </p>
@@ -20,9 +22,9 @@
 
 > **Towards Harnessing the Collaborative Power of Large and Small Models for Domain Tasks** [[arXiv]](https://arxiv.org/abs/2504.17421)
 >
-> [Yang Liu](https://sites.google.com/site/yangliuveronica/)<sup>†,\*,1</sup>, [Kejia Zhang](https://kejiazhang-robust.github.io/homepage)<sup>\*,1,2</sup>, [Bingjie Yan](https://www.bj-yan.top/)<sup>1</sup>, [Tianyuan Zou](https://scholar.google.com/citations?user=vlV8sCQAAAAJ&hl=en&oi=ao)<sup>2</sup>, [Jianqing Zhang](https://scholar.google.com/citations?user=lppe2vwAAAAJ&hl=en&oi=ao)<sup>2,3</sup>, [Zixuan Gu](https://openreview.net/profile?id=~Zixuan_GU1)<sup>2</sup>, [XIANGSEN CHEN](https://xschen-beb.github.io/)<sup>1</sup>, Jianbing Ding<sup>4</sup>, Xidong Wang<sup>4</sup>, Jingyi Li<sup>4</sup>, [Xiaozhou Ye](https://www.asiainfo.com/en_us/preview_about.html)<sup>4</sup>, [Ye Ouyang](https://air.tsinghua.edu.cn/en/info/1047/1890.htm)<sup>4</sup>, [Qiang Yang](https://www.polyu.edu.hk/dsai/people/academic-staff/yang-qiang/?sc_lang=en)<sup>1</sup>, [Ya-Qin Zhang](https://air.tsinghua.edu.cn/en/info/1046/1188.htm)<sup>2</sup>
+> [Yang Liu](https://sites.google.com/site/yangliuveronica/)<sup>†,\*,1</sup>, [Kejia Zhang](https://kejiazhang-robust.github.io/homepage)<sup>\*,1</sup>, [Bingjie Yan](https://www.bj-yan.top/)<sup>1</sup>, [Tianyuan Zou](https://scholar.google.com/citations?user=vlV8sCQAAAAJ&hl=en&oi=ao)<sup>2</sup>, [Jianqing Zhang](https://scholar.google.com/citations?user=lppe2vwAAAAJ&hl=en&oi=ao)<sup>2,3</sup>, [Zixuan Gu](https://openreview.net/profile?id=~Zixuan_GU1)<sup>2,5</sup>, [Xiangsen Chen](https://xschen-beb.github.io/)<sup>1</sup>, Jianbing Ding<sup>4</sup>, Xidong Wang<sup>4</sup>, Jingyi Li<sup>4</sup>, [Xiaozhou Ye](https://www.asiainfo.com/en_us/preview_about.html)<sup>4</sup>, [Ye Ouyang](https://air.tsinghua.edu.cn/en/info/1047/1890.htm)<sup>4</sup>, [Qiang Yang](https://www.polyu.edu.hk/dsai/people/academic-staff/yang-qiang/?sc_lang=en)<sup>1</sup>, [Ya-Qin Zhang](https://air.tsinghua.edu.cn/en/info/1046/1188.htm)<sup>2</sup>
 >
-> <sup>1</sup>The Hong Kong Polytechnic University, <sup>2</sup>Institute for AI Industry Research, Tsinghua University, <sup>3</sup>Shanghai Jiao Tong University, <sup>4</sup>AsiaInfo Technologies
+> <sup>1</sup>The Hong Kong Polytechnic University, <sup>2</sup>Institute for AI Industry Research, Tsinghua University, <sup>3</sup>Shanghai Jiao Tong University, <sup>4</sup>AsiaInfo Technologies, <sup>5</sup>School of Software, Tsinghua University
 >
 > \* Equal Contribution. † Corresponding Author (yang-veronica.liu@polyu.edu.hk).
 
@@ -31,18 +33,18 @@
 >
 > We also welcome [pull requests](https://github.com/KejiaZhang-Robust/Awesome-LM-SM-Domain-Collaboration/pulls) and [issues](https://github.com/KejiaZhang-Robust/Awesome-LM-SM-Domain-Collaboration/issues) for missing papers, metadata fixes, taxonomy improvements, and content clarification.
 
-```bibtex
+<!-- ```bibtex
 @article{liu2025towards,
   title={Towards Harnessing the Collaborative Power of Large and Small Models for Domain Tasks},
-  author={Liu, Yang and Yan, Bingjie and Zou, Tianyuan and Zhang, Jianqing and Gu, Zixuan and Ding, Jianbing and Wang, Xidong and Li, Jingyi and Ye, Xiaozhou and Ouyang, Ye and others},
+  author={Liu, Yang and Zhang, Kejia and Yan, Bingjie and Zou, Tianyuan and Zhang, Jianqing and Gu, Zixuan and Chen, Xiangsen and Ding, Jianbing and Wang, Xidong and Li, Jingyi and Ye, Xiaozhou and Ouyang, Ye and Yang, Qiang and Zhang, Ya-Qin},
   journal={arXiv preprint arXiv:2504.17421},
   year={2025}
 }
-```
+``` -->
 
 ## 🔥 News
 
-- [2026-02-11] Initial release: this repository is now publicly available.
+- [2026-06-28] Initial release: this repository is now publicly available.
 
 ## 🎯 Motivation
 
@@ -78,6 +80,7 @@
 </details>
 
 <a id="knowledge-transfer-from-lms-to-sms"></a>
+
 ### ![LM2SM](https://img.shields.io/badge/-LM2SM-2E7D5B?style=flat-square) Knowledge Transfer from LMs to SMs
 
 <details open>
@@ -157,6 +160,7 @@
 </details>
 
 <a id="knowledge-transfer-from-sms-to-lms"></a>
+
 ### ![SM2LM](https://img.shields.io/badge/-SM2LM-B45309?style=flat-square) Knowledge Transfer from SMs to LMs
 
 <details open>
@@ -249,6 +253,7 @@
 </details>
 
 <a id="cross-silo-collaborative-inference"></a>
+
 ### ![Collab](https://img.shields.io/badge/-Collab-1D4ED8?style=flat-square) Cross-silo Collaborative Inference
 
 <details open>
