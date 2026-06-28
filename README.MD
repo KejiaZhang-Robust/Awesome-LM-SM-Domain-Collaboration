@@ -22,7 +22,7 @@
 
 > **Towards Harnessing the Collaborative Power of Large and Small Models for Domain Tasks** [[arXiv]](https://arxiv.org/abs/2504.17421)
 >
-> [Yang Liu](https://sites.google.com/site/yangliuveronica/)<sup>†,\*,1</sup>, [Kejia Zhang](https://kejiazhang-robust.github.io/homepage)<sup>\*,1</sup>, [Bingjie Yan](https://www.bj-yan.top/)<sup>1</sup>, [Tianyuan Zou](https://scholar.google.com/citations?user=vlV8sCQAAAAJ&hl=en&oi=ao)<sup>2</sup>, [Jianqing Zhang](https://scholar.google.com/citations?user=lppe2vwAAAAJ&hl=en&oi=ao)<sup>2,3</sup>, [Zixuan Gu](https://openreview.net/profile?id=~Zixuan_GU1)<sup>2,5</sup>, [Xiangsen Chen](https://xschen-beb.github.io/)<sup>1</sup>, Jianbing Ding<sup>4</sup>, Xidong Wang<sup>4</sup>, Jingyi Li<sup>4</sup>, [Xiaozhou Ye](https://www.asiainfo.com/en_us/preview_about.html)<sup>4</sup>, [Ye Ouyang](https://air.tsinghua.edu.cn/en/info/1047/1890.htm)<sup>4</sup>, [Qiang Yang](https://www.polyu.edu.hk/dsai/people/academic-staff/yang-qiang/?sc_lang=en)<sup>1</sup>, [Ya-Qin Zhang](https://air.tsinghua.edu.cn/en/info/1046/1188.htm)<sup>2</sup>
+> [Yang Liu](https://sites.google.com/site/yangliuveronica/)<sup>†,\*,1</sup>, [Kejia Zhang](https://kejiazhang-robust.github.io)<sup>\*,1</sup>, [Bingjie Yan](https://www.bj-yan.top/)<sup>1</sup>, [Tianyuan Zou](https://scholar.google.com/citations?user=vlV8sCQAAAAJ&hl=en&oi=ao)<sup>2</sup>, [Jianqing Zhang](https://scholar.google.com/citations?user=lppe2vwAAAAJ&hl=en&oi=ao)<sup>2,3</sup>, [Zixuan Gu](https://openreview.net/profile?id=~Zixuan_GU1)<sup>2,5</sup>, [Xiangsen Chen](https://xschen-beb.github.io/)<sup>1</sup>, Jianbing Ding<sup>4</sup>, Xidong Wang<sup>4</sup>, Jingyi Li<sup>4</sup>, [Xiaozhou Ye](https://www.asiainfo.com/en_us/preview_about.html)<sup>4</sup>, [Ye Ouyang](https://air.tsinghua.edu.cn/en/info/1047/1890.htm)<sup>4</sup>, [Qiang Yang](https://www.polyu.edu.hk/dsai/people/academic-staff/yang-qiang/?sc_lang=en)<sup>1</sup>, [Ya-Qin Zhang](https://air.tsinghua.edu.cn/en/info/1046/1188.htm)<sup>2</sup>
 >
 > <sup>1</sup>The Hong Kong Polytechnic University, <sup>2</sup>Institute for AI Industry Research, Tsinghua University, <sup>3</sup>Shanghai Jiao Tong University, <sup>4</sup>AsiaInfo Technologies, <sup>5</sup>School of Software, Tsinghua University
 >
@@ -364,21 +364,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🧑‍💻 Contributors & ✨ Star History
+## ✨ Star History
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <strong>Contributors</strong><br><br>
-      <a href="https://github.com/KejiaZhang-Robust/Awesome-LM-SM-Domain-Collaboration/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=KejiaZhang-Robust/Awesome-LM-SM-Domain-Collaboration" alt="Contributors">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <strong>Star History</strong><br><br>
-      <a href="https://www.star-history.com/#KejiaZhang-Robust/Awesome-LM-SM-Domain-Collaboration&Date">
-        <img src="https://api.star-history.com/svg?repos=KejiaZhang-Robust/Awesome-LM-SM-Domain-Collaboration&type=Date" alt="Star History Chart">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.star-history.com/#KejiaZhang-Robust/Awesome-LM-SM-Domain-Collaboration&Date">
+    <img src="https://api.star-history.com/svg?repos=KejiaZhang-Robust/Awesome-LM-SM-Domain-Collaboration&type=Date" alt="Star History Chart" width="90%">
+  </a>
+</p>
