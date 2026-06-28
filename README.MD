@@ -376,7 +376,7 @@ This project is licensed under the [MIT License](LICENSE).
     </td>
     <td align="center" width="50%">
       <strong>Star History</strong><br><br>
-      <a href="https://star-history.com/#KejiaZhang-Robust/Awesome-LM-SM-Domain-Collaboration&Date">
+      <a href="https://www.star-history.com/#KejiaZhang-Robust/Awesome-LM-SM-Domain-Collaboration&Date">
         <img src="https://api.star-history.com/svg?repos=KejiaZhang-Robust/Awesome-LM-SM-Domain-Collaboration&type=Date" alt="Star History Chart">
       </a>
     </td>
