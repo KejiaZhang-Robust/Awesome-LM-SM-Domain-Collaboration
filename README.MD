@@ -33,18 +33,20 @@
 >
 > We also welcome [pull requests](https://github.com/KejiaZhang-Robust/Awesome-LM-SM-Domain-Collaboration/pulls) and [issues](https://github.com/KejiaZhang-Robust/Awesome-LM-SM-Domain-Collaboration/issues) for missing papers, metadata fixes, taxonomy improvements, and content clarification.
 
-<!-- ```bibtex
+## 📝 Citation
+
+```bibtex
 @article{liu2025towards,
   title={Towards Harnessing the Collaborative Power of Large and Small Models for Domain Tasks},
   author={Liu, Yang and Zhang, Kejia and Yan, Bingjie and Zou, Tianyuan and Zhang, Jianqing and Gu, Zixuan and Chen, Xiangsen and Ding, Jianbing and Wang, Xidong and Li, Jingyi and Ye, Xiaozhou and Ouyang, Ye and Yang, Qiang and Zhang, Ya-Qin},
   journal={arXiv preprint arXiv:2504.17421},
-  year={2025}
+  year={2025},
 }
-``` -->
+```
 
 ## 🔥 News
 
-- [2026-06-28] Initial release: this repository is now publicly available.
+- [2026-06-28] Released the [survey paper](https://arxiv.org/abs/2504.17421) and this public repository.
 
 ## 🎯 Motivation
 
