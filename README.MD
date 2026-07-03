@@ -40,7 +40,7 @@
   title={Towards Harnessing the Collaborative Power of Large and Small Models for Domain Tasks},
   author={Liu, Yang and Zhang, Kejia and Yan, Bingjie and Zou, Tianyuan and Zhang, Jianqing and Gu, Zixuan and Chen, Xiangsen and Ding, Jianbing and Wang, Xidong and Li, Jingyi and Ye, Xiaozhou and Ouyang, Ye and Yang, Qiang and Zhang, Ya-Qin},
   journal={arXiv preprint arXiv:2504.17421},
-  year={2025},
+  year={2026}
 }
 ```
 
